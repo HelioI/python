@@ -15,5 +15,5 @@ print(c.index(2, 1))'''
 pessoa = ('Hélio', 20, 'M', 70.50)
 print(pessoa)
 del pessoa
-pessoa =('UMA PESSSOA HAHAAHAHAHAH')
+pessoa =('UMA PESSSOA')
 print(pessoa)
